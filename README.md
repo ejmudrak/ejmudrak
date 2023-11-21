@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## :pencil: GitHub stats
+
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=ejmudrak&show_icons=true&hide_border=true&theme=vue-dark&count_private=true" alt="Erik's GitHub Stats" />
+
+## :art: Languages used
+
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=ejmudrak&theme=vue-dark" alt="Erik's GitHub Stats" />
+
+
 <!--
 **ejmudrak/ejmudrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
