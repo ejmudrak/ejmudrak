@@ -6,8 +6,8 @@ I'm Erik Mudrak, a software engineer passionate about compelling products & purp
 - 📱 Check out my projects at https://www.erikmudrak.com/projects
 - 📝 I write about tech at https://www.erikmudrak.com/blog
 - 🔨 My current side projects are:
-  - 🎧 Vinyl collection management app w/ React Native
-  - 🍹 Cocktail library app w/ Next.js
+  - 🎧 Vinyl collection management app w/ [React Native](https://github.com/ejmudrak/groovebase-mobile) and [Node](https://github.com/ejmudrak/groovebase-api)
+  - 🍹 Cocktail library app w/ [Next.js](https://github.com/ejmudrak/nexttails)
 - 📫 How to reach me: ejmudrak@gmail.com
 - ⚡ Fun facts: I had 7 wisdom teeth and I've met Taylor Swift (facts are... unrelated)
 
@@ -19,7 +19,7 @@ const erik = {
   askMeAbout: ["frontend dev", "backend dev", "ui design", "web a11y", "usability testing"],
   technologies: {
       frontend: ["JSX", "React", "Next", "Cypress"],
-      backend: ["TS", "Node", "Postgres"],
+      backend: ["TS", "Node", "Feathers", "Postgres"],
   }
 }
 ```
@@ -28,7 +28,7 @@ const erik = {
 
 <img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=ejmudrak&show_icons=true&hide_border=true&theme=vue-dark&count_private=true" alt="Erik's GitHub Stats" />
 
-<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=ejmudrak&theme=vue-dark" alt="Erik's Languages Used" />
+<!-- <img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=ejmudrak&theme=vue-dark" alt="Erik's Languages Used" /> -->
 
 
 <!--
