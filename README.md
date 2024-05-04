@@ -1,8 +1,8 @@
 ### Ahoy! 👋
-I'm Erik Mudrak, a software engineer passionate about compelling products & purposes, with 6 years of experience designing, building, scaling, and maintaining web + mobile platforms.
+I'm Erik Mudrak, a software engineer passionate about compelling products & purposes, with 7 years of experience designing, building, scaling, and maintaining web + mobile platforms.
 
-- 💼 Senior Full Stack Engineer at [Ellipsis Education](https://ellipsiseducation.com/)
-- 👨‍💻 I’m currently working on platforms to deliver K-12 Computer Science education
+- 💼 Senior Frontend Stack Engineer at [ReFED](https://refed.org/)
+- 👨‍💻 I’m currently working on platforms to reduce food waste
 - 📱 Check out my projects at https://www.erikmudrak.com/projects
 - 📝 I write about tech at https://www.erikmudrak.com/blog
 - 🔨 My current side projects are:
