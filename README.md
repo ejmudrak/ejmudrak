@@ -1,5 +1,5 @@
 ### Ahoy! 👋
-I'm Erik Mudrak, a software engineer passionate about compelling products & purposes, with 7 years of experience designing, building, scaling, and maintaining web + mobile platforms.
+I'm Erik Mudrak, a software engineer passionate about tech for social good, with 7 years of experience designing, building, scaling, and maintaining web + mobile platforms.
 
 - 💼 Senior Frontend Software Engineer at [ReFED](https://refed.org/)
 - 👨‍💻 I’m currently working on platforms to reduce food waste
